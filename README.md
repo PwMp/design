@@ -12,4 +12,3 @@
   2. AIM 2
   3. AIM 3
 
-![](http://lecoapp.leco.lk:8091/LecoWebViews/Outage2022)
